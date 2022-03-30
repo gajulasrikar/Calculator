@@ -11,7 +11,7 @@ Scientific / Dark |  Standard / Colored
 :------------------:|:-------------------
 ![Calculator - screenshot](screenshots/dark.PNG) | ![Calculator - screenshot](screenshots/colored.PNG)
 
-### Requirements 🔧sri
+### Requirements 🔧sri v
 * Java version 8 or higher.
 
 ### Installation 🔌
